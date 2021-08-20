@@ -7,9 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 _No unreleased changes_
 
+## [0.2.0] - 2021-08-19
+### Added
+- Added copy button
+
 ## [0.1.0] - 2020-05-14
 ### Added
 - Added script to display token in URL 
 
+[0.2.0]: https://github.com/VariXx/twitch-oauth-token-generator/tree/v0.2.0
 [0.1.0]: https://github.com/VariXx/twitch-oauth-token-generator/tree/v0.1.0
 [Unreleased]: https://github.com/VariXx/twitch-oauth-token-generator/compare/v0.1.0...master
