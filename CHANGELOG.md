@@ -11,6 +11,9 @@ _No unreleased changes_
 ### Added
 - Added copy button
 
+### Changed
+- Changed styling
+
 ## [0.1.0] - 2020-05-14
 ### Added
 - Added script to display token in URL 
