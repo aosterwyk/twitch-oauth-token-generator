@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 _No unreleased changes_
 
+## [1.0.0] - 2022-12-31
+### Added
+- Added Show/Hide Token button
+
+### Changed
+- Changed token field to input and set to hide by default
+- Changed onClick events to addEventListeners 
+- Updated to Bootstrap 5
+
 ## [0.2.0] - 2021-08-19
 ### Added
 - Added copy button
@@ -18,6 +27,7 @@ _No unreleased changes_
 ### Added
 - Added script to display token in URL 
 
+[0.2.0]: https://github.com/VariXx/twitch-oauth-token-generator/tree/v1.0.0
 [0.2.0]: https://github.com/VariXx/twitch-oauth-token-generator/tree/v0.2.0
 [0.1.0]: https://github.com/VariXx/twitch-oauth-token-generator/tree/v0.1.0
 [Unreleased]: https://github.com/VariXx/twitch-oauth-token-generator/compare/v0.1.0...master
